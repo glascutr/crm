@@ -201,3 +201,12 @@ You need Docker, docker-compose and git setup on your machine. Refer [Docker doc
 		</picture>
 	</a>
 </div>
+
+
+---
+
+# Changed
+
+## Default Lead Status Comment IN
+## Default Deal Status Comment IN
+## Property Linked with CRM Portal Page
